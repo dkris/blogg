@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Yellow Wall
 locale:           en_US
 url:              http://jekyll-dkris.rhcloud.com/
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Dhruva Krishnan
   avatar: blog_bio.jpg
-  bio: "Describe your self."
+  bio: "Front-end Engineer | UX Enthusiast | DJ | Diver | Craft Beer Lover"
   email: 
   disqus-shortname: 
   twitter: dkris
