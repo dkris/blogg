@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            @dkris
 locale:           en_US
 url:              http://jekyll-dkris.rhcloud.com/
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Dhruva Krishnan
+  avatar: blog_bio.png
+  bio: "Who am I?"
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: dkris
+  facebook: dkris
   google:
     plus: #username
     analytics: 
@@ -43,7 +43,7 @@ owner:
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: dkris
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -51,7 +51,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: dkris
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
